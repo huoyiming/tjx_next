@@ -1,0 +1,39 @@
+{
+    "locale": "en",
+    "navbar": {
+        "title": "家祥百科",
+        "logo": {
+            "alt": "家祥百科",
+            "url": "/static/tjx_36px.png"
+        },
+        "home_url": "/",
+        "items": [
+            {
+                "url": "/wiki/",
+                "label": "Wiki",
+                "position": "left"
+            }
+        ]
+    },
+    "footer":{
+        "top":[
+            {
+                "label": "",
+                "items": [
+                    {
+                        "label": "",
+                        "url": "#",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        ],
+        "bottom": [
+            {
+                "label": "2023@家祥百科",
+                "url": "https://github.com/teedoc/teedoc",
+                "target": "_blank"
+            }
+        ]
+    }
+}
