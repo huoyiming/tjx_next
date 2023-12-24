@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wiki.tanjiaxiang.icu/sitemap.xml
+Sitemap: https://test.tanjiaxiang.icu/sitemap.xml
