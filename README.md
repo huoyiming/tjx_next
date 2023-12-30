@@ -9,3 +9,5 @@
 #### 要求：原文+出处+翻译
 
  请在[Github](https://github.com/huoyiming/tjx_next)上提交issues或者pr
+
+移动端用户请点击左下角以打开目录
